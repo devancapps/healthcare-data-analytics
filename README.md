@@ -19,4 +19,4 @@ A comprehensive analysis of diabetes healthcare trends using Python. This projec
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/[your-username]/healthcare-data-analytics.git
+git clone https://github.com/devancapps/healthcare-data-analytics.git
